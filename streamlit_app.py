@@ -18,4 +18,4 @@ st_button('youtube', 'https://www.linkedin.com/in/sitraka-matthieu-forler/', 'Si
 st_button('medium', 'https://medium.com/@sitrakaforler', 'Read my Blogs', icon_size)
 st_button('twitter', 'https://twitter.com/ForlerSitraka', 'Follow me on Twitter', icon_size)
 st_button('linkedin', 'https://www.linkedin.com/in/sitraka-matthieu-forler/', 'Follow me on LinkedIn', icon_size)
-st_button('Blog', 'https://sites.google.com/view/sitrakamatthieuforler/home', 'My personnal Web Site', icon_size)
+#st_button('Blog', 'https://sites.google.com/view/sitrakamatthieuforler/home', 'My personnal Web Site', icon_size)
