@@ -44,7 +44,7 @@ There are 3 key information that you can modify:
 1. `st.header(A)` is used for specifying your name in place of **A**.
 Example:
 ```python
-st.header('Chanin Nantasenamat, Ph.D.')
+st.header('Sitraka FORLER, Ph.D.')
 ```
 
 2. `st.info(B)` is used for speciying a quick description about who you are, what you do, etc. in place of **B**.
