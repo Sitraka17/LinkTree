@@ -14,7 +14,7 @@ st.info('Economist and Data Scientist! Combine economic thinking systems and new
 icon_size = 20
 
 st_button('youtube', 'https://www.youtube.com/channel/UC9SHkerBF56p-skyKbm7NpQ', 'Personnal YouTube channel', icon_size)
-st_button('youtube', 'https://youtube.com/codingprofessor', 'Sitraka Data YouTube channel', icon_size)
+st_button('youtube', 'https://www.linkedin.com/in/sitraka-matthieu-forler/', 'Sitraka Data YouTube channel', icon_size)
 st_button('medium', 'https://medium.com/@sitrakaforler', 'Read my Blogs', icon_size)
 st_button('twitter', 'https://twitter.com/ForlerSitraka', 'Follow me on Twitter', icon_size)
 st_button('linkedin', 'https://www.linkedin.com/in/sitraka-matthieu-forler/', 'Follow me on LinkedIn', icon_size)
