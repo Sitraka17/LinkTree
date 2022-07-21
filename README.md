@@ -35,7 +35,7 @@ st_button('youtube', 'https://youtube.com/BrisingConan', 'BrisingConan', icon_si
 st_button('youtube', 'https://youtube.com/codingprofessor', 'Coding Professor YouTube channel', icon_size)
 st_button('medium', 'https://medium.com/@sitrakaforler', 'Read my Blogs', icon_size)
 st_button('twitter', 'https://twitter.com/thedataprof/', 'Follow me on Twitter', icon_size)
-st_button('linkedin', 'https://www.linkedin.com/in/chanin-nantasenamat/', 'Follow me on LinkedIn', icon_size)
+st_button('linkedin', '', 'Follow me on LinkedIn', icon_size)
 st_button('newsletter', 'https://sendfox.com/dataprofessor/', 'Sign up for my Newsletter', icon_size)
 st_button('cup', 'https://www.buymeacoffee.com/dataprofessor/', 'Buy me a Coffee', icon_size)
 ```
