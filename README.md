@@ -25,7 +25,7 @@ load_css()
 col1, col2, col3 = st.columns(3)
 col2.image(Image.open('dp.png'))
 
-st.header('Sitraka FORLER, Data Engineer')
+st.header('Sitraka FORLER, Data Engineer & Scientist')
 
 st.info('Developer Advocate, Content Creator and ex-Professor with an interest in Data Science and Bioinformatics')
 
