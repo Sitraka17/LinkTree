@@ -5,7 +5,7 @@
 
 # Demo app
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chanin.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sitraka17-linktree-streamlit-app-3xiqa5.streamlitapp.com/)
 
 # Setting up
 
