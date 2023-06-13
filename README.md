@@ -66,4 +66,4 @@ After a few moments your new `links page` should be accessible at https://share.
 In an upcoming release of Streamlit Cloud, you will be able to customize the URL address to https://{custom-name--here}.streamlitapp.com/ such as the one that Data Professor have created at https://chanin.streamlitapp.com/
 
 
-Usefull site ? May be not. But cool one. 
+Usefull site ? May be not. But a cool one !
