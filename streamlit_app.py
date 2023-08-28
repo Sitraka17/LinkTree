@@ -7,7 +7,7 @@ load_css()
 col1, col2, col3 = st.columns(3)
 col2.image(Image.open('dp.png'))
 
-st.header('Sitraka FORLER, Data Expert')
+st.header('Sitraka FORLER, Economist & Data Expert')
 
 st.info('Economist and Data Scientist! Combine economic thinking systems and new technologies (from data pipelines to advanced and improved predictive models).')
 
