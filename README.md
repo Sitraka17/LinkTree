@@ -66,3 +66,4 @@ In an upcoming release of Streamlit Cloud, you will be able to customize the URL
 
 
 Usefull site ? May be not. But a cool one !
+Well it will be soon usefull ^^
