@@ -1,6 +1,7 @@
 # Welcome to Streamlit `links page`
 
 > A Streamlit app that you can build for free to store all your personal links that is similar in functionality to that of [Linktr.ee](https://linktr.ee/).
+Well since I'm not yet a tiktok influenceur this app is not relly used lol 
 
 # Demo app
 
